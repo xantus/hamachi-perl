@@ -1,0 +1,10 @@
+
+hamachi-perl is a Perl interface to Hamachi
+using IPC over a unix domain socket
+
+This module will only work on linux or osx
+
+http://github.com/xantus/hamachi-perl/
+
+-- 
+David Davis
